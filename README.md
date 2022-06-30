@@ -22,7 +22,12 @@ using Google Fitness API.</li>
 <li>Firebase - Cloud Firestore</li>
 </ul>
 <h2>Screenshots 📸</h2>
-![Login](https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Login.png)
+<p float="center">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Login.png" title="Login Page" height="700px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Homepage.png" title="Home Page" height="700px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Profile.png" title="Profile Page" height="700px">
+</p>
+
 
 <h2>🤩 Don't forget to give ⭐ to this repository </h2>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg">
