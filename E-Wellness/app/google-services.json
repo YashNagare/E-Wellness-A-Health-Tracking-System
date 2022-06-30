@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421660183228",
+    "project_id": "e-wellness-6a185",
+    "storage_bucket": "e-wellness-6a185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421660183228:android:ad85dab6aeacd979665eb9",
+        "android_client_info": {
+          "package_name": "com.example.e_wellness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421660183228-gqonm5s2fvqdhe6ml2lfvgjoa361ldn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxuDQAScK3kU3MmnnP4wnDFHaRRkW0-Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421660183228-gqonm5s2fvqdhe6ml2lfvgjoa361ldn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
