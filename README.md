@@ -10,7 +10,7 @@ using Google Fitness API.</li>
 <h4>E-Wellness Android Application</h4>
 <ul>
 <li>Android Java</li>
-<li>XML</li>
+<li>Google Fitness API</li>
 <li>Firebase - Cloud Firestore</li>
 </ul>
 <h4>E-Wellness Web Application</h4>
