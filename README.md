@@ -21,11 +21,19 @@ using Google Fitness API.</li>
 <li>Javascript</li>
 <li>Firebase - Cloud Firestore</li>
 </ul>
-<h2>Screenshots 📸</h2>
+<h2>Mobile App Screenshots 📸</h2>
 <p float="center">
   <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Login.png" title="Login Page" height="700px">
   <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Homepage.png" title="Home Page" height="700px">
   <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Profile.png" title="Profile Page" height="700px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Predictions.png" title="Prediction Page" height="700px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Chatbot-1.png" title="Profile Page" height="700px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Chatbot-2.png" title="Prediction Page" height="700px">
+</p>
+<h2>Website Screenshots 📸</h2>
+<p float="center">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Admin_Dashboard.png" title="Admin Dashboard">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Admin_Side_Details.png" title="Admin Side Details">
 </p>
 
 
