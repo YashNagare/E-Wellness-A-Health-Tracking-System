@@ -26,9 +26,9 @@ using Google Fitness API.</li>
   <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Login.png" title="Login Page" height="425px" width="225px">
   <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Homepage.png" title="Home Page" height="425px" width="225px">
   <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Profile.png" title="Profile Page" height="425px" width="225px">
-  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Predictions.png" title="Prediction Page" height="475px" width="275px">
-  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Chatbot-1.png" title="Profile Page" height="475px" width="275px">
-  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Chatbot-2.png" title="Prediction Page" height="475px" width="275px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Predictions.png" title="Prediction Page" height="425px" width="225px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Chatbot-1.png" title="Profile Page" height="425px" width="225px">
+  <img src="https://github.com/YashNagare/E-Wellness-A-Health-Tracking-System/blob/main/github%20resources/Chatbot-2.png" title="Prediction Page" height="425px" width="225px">
 </p>
 <h2>Website Screenshots 📸</h2>
 <p float="center">
